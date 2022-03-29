@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Wordpress Development",
+        "banner":"https://i0.wp.com/wcblogs.com/wp-content/uploads/2021/04/wordpress-logo.png?resize=300%2C300&ssl=1",
+        "duration":"6",
+        "ratings":"4.5",
+        "enrolled":"1100",
+        "description":"In 2022, it's never been easier to build a fantastic, responsive website that looks great on computers, tablets, and mobile phones.You can learn Wordpress WITHOUT having to buy web hosting or a domain name.  I'll show you how you can set it all up on your own computer using free tools. NOTE: This course will always be updated to cover the latest version of WordPress.  Covers WordPress 5.0 and earlier.",
+        "price":"200"
+    },{
+        "id":2,
+        "title":"Learn React From Scratch",
+        "banner":"https://www.pngrepo.com/png/346250/512/reactjs-fill.png",
+        "duration":"8",
+        "ratings":"4.8",
+        "enrolled":"300",
+        "description":"React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! :)And in case you don't even know why you would want to learn React and you're just here because of some ad or 'the algorithm' - no worries: ReactJS is a key technology as a web developer and in this course I will also explain WHY it's that important!",
+        "price":"80"
+    },{
+        "id":3,
+        "title":"Become Digital Marketer",
+        "banner":"https://cdn-icons-png.flaticon.com/512/2361/2361839.png",
+        "duration":"11",
+        "ratings":"3.5",
+        "enrolled":"1800",
+        "description":"These powerful lessons enable you to be a more effective marketer without waste time in useless presentations. Our Digital Marketing Management course is perfect for the professionals - either independent or working for a company - to have an all-around understanding of the subject and able to solve practical problems or talk with subject matter experts with ease.IMPORTANT: This course is very substantial, and updated on a regular basis. However, do not be scared! You can decide to learn specific topics OR go for the entire course. If you feel you know already some parts you can skip them and focus on other ones. Remember we are always here to help you!",
+        "price":"150"
+    },{
+        "id":4,
+        "title":"Hands on JavaScript",
+        "banner":"https://www.freepnglogos.com/uploads/javascript-png/js-outline-javascript-logo-download-clip-art-with-transparent-25.png",
+        "duration":"7",
+        "ratings":"4.9",
+        "enrolled":"1120",
+        "description":"This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications. You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!",
+        "price":"100"
+    }
+]

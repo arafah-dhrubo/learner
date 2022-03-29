@@ -1,0 +1,16 @@
+[
+    {
+"id":1,
+"name":"Jon Doe",
+"avater":"https://blog.prototion.com/content/images/2021/09/peep-1.png",
+"rating":"5",
+"feedback":"I learnt js from scratch. It totally changed my learning curve. Recomended."
+    },
+    {
+"id":2,
+"name":"Mark Doe",
+"avater":"https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/192799433/original/871c89302c9c17dc87b9ed33a00bde3180309fa1/create-a-personalized-notion-avatar-for-you.png",
+"rating":"5",
+"feedback":"Finished the react course. Just Awesome experience. It was vacation. And I am the new me now"
+    }
+]
